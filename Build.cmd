@@ -1,0 +1,1 @@
+copy /b 7zS.sfx + config.txt + %1 %1.exe
